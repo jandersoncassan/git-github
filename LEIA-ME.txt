@@ -1,1 +1,4 @@
 git rm --cached <nome_arquivo> .. da rollback nos git add 
+
+## promote branch MERGE
+vamos para a branch onde vai receber a atualização
