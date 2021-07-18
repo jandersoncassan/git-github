@@ -2,3 +2,5 @@ git rm --cached <nome_arquivo> .. da rollback nos git add
 
 ## promote branch MERGE
 vamos para a branch onde vai receber a atualização
+estou na develop e quero receber os codigos da branch cadastro-cliente
+git merge cadastro-cliente
